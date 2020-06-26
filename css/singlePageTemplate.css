@@ -19,6 +19,14 @@ body {
 .hero{
 	height: 100vh;
 }
+
+.hero p{
+	color: white;
+	font-family: Arial Black;
+	font-size: 100px;
+	text-align: center;
+}
+
 /* Container */
 .container {
 	width: 100%;
